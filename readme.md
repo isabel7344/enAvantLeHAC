@@ -1,4 +1,4 @@
-# TP Ligue 2 Domino's
+# TP Ligue 2 BKT
 
 > Le TP doit respecter les normes et les standards du WEB (ex. <https://www.w3.org/> et <https://checklists.opquast.com/fr/>)
 
