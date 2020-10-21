@@ -25,6 +25,7 @@ Le dossier de ce test sera composé de cette manière :
 ## Les fameuses contraintes
 
 * Utiliser majoritairement *des classes bootstrap* : **Votre site doit être responsive**.
+* Nous allons prendre comme référence l'iPhone avec une largeur de **414px** (*ex. iPhone 8* Plus)
 * Le tableau doit être **optimisé** en mode mobile : *voir ci-dessous*
 ![Tableau](img/capture_02.PNG "Tableau")  
 * Le tableau doit bénéficier d'un effet lors du survol de la souris (*surbrillance*) : **Nous devons pouvoir reconnaitre la ligne du tableau lorsque que nous passons la souris dessus.**
